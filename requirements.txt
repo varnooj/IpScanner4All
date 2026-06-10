@@ -1,0 +1,5 @@
+# This project currently uses only Python standard libraries.
+# No external modules are required to run scanner.py.
+# 
+# Future dependencies can be added below:
+# requests==2.31.0
