@@ -54,8 +54,9 @@ python scanner.py ips.txt
 
 ```bash
 python scanner.py ips.txt result.txt
-پس از اجرا، برنامه از شما می‌پرسد که مایلید هر آی‌پی چند بار پینگ شود (عدد پیش‌فرض ۴ است):
 ```
+پس از اجرا، برنامه از شما می‌پرسد که مایلید هر آی‌پی چند بار پینگ شود (عدد پیش‌فرض ۴ است):
+
 
 
 [?] Enter number of pings per IP (default: 4): 1
