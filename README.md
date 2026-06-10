@@ -59,11 +59,7 @@ python scanner.py ips.txt result.txt
 
 
 
-[?] Enter number of pings per IP (default: 4): 1
-[*] Extracting IPs from 'ips.txt'...
-[+] Total IPs to scan: 1024
-[*] Ping count set to: 1
-[*] Scanning... (Press Ctrl+C to stop instantly)
-[+] 1.1.1.1 is UP
+<img width="479" height="155" alt="image" src="https://github.com/user-attachments/assets/48d50a66-177d-4efe-a388-384db5c3513e" />
+
 🛑 توقف اسکن
 در هر مرحله از اسکن، در صورتی که نیاز به توقف برنامه داشتید، کافیست از میانبر Ctrl + C در کیبورد استفاده کنید. برنامه بلافاصله اسکن را متوقف کرده و به شما پیام می‌دهد که چند آی‌پی تا این لحظه در فایل خروجی با موفقیت ذخیره شده‌اند.
